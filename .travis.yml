@@ -10,5 +10,6 @@ deploy:
   skip_cleanup: true
   local_dir: docs
   github_token: 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
+  keep_history: true
   on:
     branch: master
