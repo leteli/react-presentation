@@ -12,3 +12,6 @@ deploy:
   github_token: $GITHUB_TOKEN
   on:
     branch: master
+
+env:
+  - GITHUB_TOKEN=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
