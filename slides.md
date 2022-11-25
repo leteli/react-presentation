@@ -14,7 +14,7 @@ Kartseva Anastasia
 Aston Lab
 
 <!--s-->
-### О чем поговорим?
+#### План доклада
 
 1. Очень кратко об асинхронности в JS
 
@@ -30,7 +30,7 @@ Aston Lab
 
 ### Event Loop
 
-![Event Loop в браузере](https://d6vdma9166ldh.cloudfront.net/media/images/9aacbcd0-44c5-45e1-b3eb-be84a2eb99d8.png)
+<img src="images/eventloop.png" alt='Event loop image'/>
 
 <!--s-->
 

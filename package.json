@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:leteli/react-presentation.git"
+    "url": "git+https://github.com/martinmurphy/slidestemplate.git"
   },
   "author": "Martin Murphy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/martinmurphy/slidestemplate/issues"
   },
-  "homepage": "https://github.com/leteli/react-presentation/slides.md",
+  "homepage": "https://github.com/martinmurphy/slidestemplate#readme",
   "devDependencies": {
     "reveal-md": "^0.4.2"
   }

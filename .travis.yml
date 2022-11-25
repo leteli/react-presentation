@@ -9,9 +9,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: docs
-  github_token: $GITHUB_TOKEN
+  github_token: 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
   on:
     branch: master
-
-env:
-  - GITHUB_TOKEN=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
